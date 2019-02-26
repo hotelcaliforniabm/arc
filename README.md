@@ -8,6 +8,13 @@ This system was primarily designed to provide 30kwh of daily capacity for our Bu
 
 Given that it is not a super common standart (vs. 110-220vac) we also started to design custom appliances that benefit from it by being oders of magnitude more efficent than off the shelf solutions.
 
+### Advantages:
+* Cheaper than off the shelf solutions
+* No off season maintenance required
+* Outdoor (Playa) proof
+* Easy to extend vertically (by adding more Arc's)
+* Highly power efficent
+
 ### Appliance types we run:
 * Lights (24vdc LED fixtures)
 * PA System (we currentely run a custom 2kw RMS PA and are planning to expand to 6kw this year)
