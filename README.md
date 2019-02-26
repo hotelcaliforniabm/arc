@@ -1,6 +1,8 @@
 # Arc
 A nifty way to build modular off grid solar power systems.
 
+![alt text](https://github.com/hotelcaliforniabm/arc/blob/master/arc_v2_exterior.jpg "Arc v2 exterior")
+
 ## Todo's
 Easy status monitoring
 Easy to track down and fix issues
