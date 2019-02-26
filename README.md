@@ -19,7 +19,7 @@ Given that it is not a super common standart (vs. 110-220vac) we also started to
 * Lights (24vdc LED fixtures)
 * PA System (we currentely run a custom 2kw RMS PA and are planning to expand to 6kw this year)
 * Fridges (there is a bunch of 24v fridges available on the market)
-* Water pumps (there is a bunch of 24v fridges available on the market)
+* Water pumps (there is a bunch of 24v ones available on the market)
 * Various low voltage (5-12vdc) appliances such as DMX controllers, wifi access points, ipads, etc. (those can easily be fed by using step down voltage converters)
 
 ## Features
