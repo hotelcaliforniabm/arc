@@ -55,6 +55,7 @@ On a high level each arc consists of two modules:
 
 ![alt text](arc_v2_bmc.jpg "Arc v2 battery management controller")
 ![alt text](arc_v2_interior.jpg "Arc v2 interior")
+![alt text](arc_v2_solar_controller.jpg "Arc v2 solar controller")
 
 [Arc v2 parts list](arc_v2_parts_list.csv)
 
