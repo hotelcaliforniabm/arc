@@ -27,6 +27,7 @@ On a high level each arc consists of two modules:
 * Arc itself
   * Battery
   * Battery management controller
+  * Timers (to automatically control lights at night)
   * Housing with outlets
 * Solar charger
   * Solar charge controller
@@ -53,18 +54,18 @@ Based on previous expierence we decided to use pp45 Anderson Powerpole connector
 * When the battery get completely drained sometimes the charger controller won't come on in the morning and needs a power cycle to correctly read the abttery status
 
 ## Todo's
-Easy status monitoring
-Easy to track down and fix issues
-Maximize hardware utilization
-Easy & cheap to build
-Mass manufacturable
-Inter arc load balancing
+* Simplify status monitoring
+* Simplify tracking down and fixing issues
+* Maximize hardware utilization (timers are ok, but a dynamic system would be better)
+* Simplify assembly and reduce costs
+* Mass manufacturable
+* Inter arc load balancing
 
 ## Thanks
-Mark Omerod for starting this project in 2015
-Kuy Mainwaring for being part of the brain trust around this over the years
-Drew Moxon for really being the man enabling me and my silly ideas
-All the amazing souls at Hotel California for making this happen
+* Mark Omerod for starting this project in 2015
+* Kuy Mainwaring for being part of the brain trust around this over the years
+* Drew Moxon for really being the man enabling me and my silly ideas
+* All the amazing souls at Hotel California for making this happen
 
 ## License
 Copyright (c) 2017-2019 Matthias Wagner
