@@ -65,7 +65,7 @@ Working on it...
 ## Housing
 Housing needed to be highly mobile, robust, water proof and cheap. Hence we decided to use Ridgid Toolboxes which can be easily purchased at any HomeDepot. They are also stackable!
 
-We spray painted the boxes white to reduce heat from the sun.
+We spray painted the boxes white to reduce heat from the sun. Yes, we leave them out in the weather (at Burning Man which is super harsh, sun, heat, cold, wind, dust, rain, etc.)
 
 These toolboxes also fit 19" components which comes in handy to house industry standard rack mount gear.
 
