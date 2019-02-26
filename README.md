@@ -15,6 +15,11 @@ Given that it is not a super common standart (vs. 110-220vac) we also started to
 * Water pumps (there is a bunch of 24v fridges available on the market)
 * Various low voltage (5-12vdc) appliances such as DMX controllers, wifi access points, ipads, etc. (those can easily be fed by using step down voltage converters)
 
+## System Architecture
+The system is designed to consist of multiple independend units which allows for simpler deployment across the perimeter, reduced complexity and higher redundancy.
+
+We run 7x Arcs for our camp at this time. Each one of them has 2,560kwh storage capacity for a total of 17,920kwh. Each is charged by two 350w solar panels.
+
 ## Todo's
 Easy status monitoring
 Easy to track down and fix issues
