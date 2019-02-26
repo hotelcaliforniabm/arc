@@ -65,7 +65,10 @@ Working on it...
 ## Housing
 Housing needed to be highly mobile, robust, water proof and cheap. Hence we decided to use Ridgid Toolboxes which can be easily purchased at any HomeDepot. They are also stackable!
 
-These toolboxes also fit 19" components which comes in handy to house industry standart rack mount gear.
+We spray painted the boxes white to reduce heat from the sun.
+
+These toolboxes also fit 19" components which comes in handy to house industry standard rack mount gear.
+
 ![alt text](dmx_controller.jpg "Arc powered DMX controllers")
 
 
