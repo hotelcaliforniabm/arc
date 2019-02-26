@@ -18,16 +18,26 @@ Given that it is not a super common standart (vs. 110-220vac) we also started to
 ## System Architecture
 The system is designed to consist of multiple independend units which allows for simpler deployment across the perimeter, reduced complexity and higher redundancy.
 
+For added flexibility we seperated the battery and controller from the solar charge controller because for some usecases (single day events) we don't need the solar piece (Arcs can also be charged from the regualr power grid).
+
 We run 7x Arcs for our camp at this time. Each one of them has 2,560kwh storage capacity for a total of 17,920kwh. Each is charged by two 350w solar panels.
 
 # Arc components
-On a high level each arc consists of the following components:
-* Battery
-* Battery management controller
-* Housing with outlets
+On a high level each arc consists of two modules:
+* Arc itself
+  * Battery
+  * Battery management controller
+  * Housing with outlets
+* Solar charger
+  * Solar charge controller
+  * Breakers
+  * System management interface
+  * housing
 
 ![alt text](https://github.com/hotelcaliforniabm/arc/blob/master/arc_v2_bmc.jpg "Arc v2 battery management controller")
 ![alt text](https://github.com/hotelcaliforniabm/arc/blob/master/arc_v2_interior.jpg "Arc v2 interior")
+
+![alt text](https://github.com/hotelcaliforniabm/arc/blob/master/arc_v2_parts_list.csv "Arc v2 parts list")
 
 ## Todo's
 Easy status monitoring
