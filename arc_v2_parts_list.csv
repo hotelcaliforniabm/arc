@@ -1,0 +1,37 @@
+What,Why,amount,unit price,est total,Ordered,Act. Cost (incl tax),Source
+,,,,,,,
+Solar Charge Controller module,Supports up to 2x340w solar panels & 125ah/d battery charge capacity,,,,,,
+Ridgid 22' Pro Organizer box,Housing,1,$29.00,$29.00,8,$29.00,http://www.homedepot.com/p/RIDGID-22-in-Pro-Organizer-Black-222571/205440492
+Powerwerx PanelPole,to connect battery and panels,1,$20.00,$20.00,8,$19.99,https://powerwerx.com/panelpole-panel-mount-powerpole-housing
+Victron BlueSolar MPPT 100/30,To control solar/battery charger,1,$187.00,$187.00,6,$196.35,https://www.amazon.com/Victron-BlueSolar-MPPT-Charge-Controller/dp/B011KHV1RM/ref=sr_1_2?ie=UTF8&qid=1521918770&sr=8-2&keywords=BlueSolar+MPPT+100%2F30&dpID=419X%252B%252BlVk%252BL&preST=_SX300_QL70_&dpSrc=srch
+Victron MPPT Control,To monitor system status and configure controller,1,$110.00,$110.00,8,$109.50,https://www.amazon.com/Victron-BlueSolar-MPPT-Control-cable/dp/B019XB4S9U/ref=sr_1_1?ie=UTF8&qid=1504752248&sr=8-1&keywords=victron+MPPT+Control
+Breaker,10amp(from panels),1,$40.00,$40.00,8,$40.00,https://www.amazon.com/MidNite-Solar-Breaker-300VDC-MNEPV10/dp/B00A6XHA1S/ref=sr_1_fkmr0_1?s=automotive&ie=UTF8&qid=1523337525&sr=1-1-fkmr0&keywords=MidNite+Solar+Breaker+10A+150VDC
+Breaker,30amp(to battery),1,$11.00,$11.00,8,$11.00,https://www.amazon.com/PODOY-Circuit-Breaker-System-Protection/dp/B01HJKMZPG/ref=sr_1_fkmr1_1?s=automotive&ie=UTF8&qid=1521921048&sr=1-1-fkmr1&keywords=ANJOSHI+30A+Car+Audio+Protection+Circuit+Breaker
+Din rail,to mount solar breaker,1,$20.00,$20.00,8,$20.00,https://www.amazon.com/gp/product/B007EWUK5M/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1
+Cable,1ft/12awg to cut 1x 4' cable to connect to battery,4,$0.50,$2.00,Y,$2.00,https://www.amazon.com/GLS-Audio-Professional-Speaker-Cable/dp/B004Z2K5U4/ref=sr_1_12?ie=UTF8&qid=1521925181&sr=8-12&keywords=flexible+2-wire+cable+12awg+black
+,,,Sub Total,$417.00,,$456.08,
+,,,,,,,
+,,,,,,,
+Battery module,25.6vdc 100ah total capacity (2560wh),,,,,,
+Ridgid 22in Pro tool box,Housing,1,$39.00,$39.00,6,$39.00,http://www.homedepot.com/p/RIDGID-22-in-Pro-Tool-Box-Black-222570/205440481
+LiFeMnPO4 Battery pack,to store energy,1,"$1,460.00","$1,460.00",6,"$1,470.75",http://www.batteryspace.com/lifepo4-prismatic-battery-and-charger-package-24v-choose-from-20-ah-40ah-60ah-or-100ah---un38-3-passed-dgr.aspx
+BMS,"to monitor voltage and charge status, over under voltage/current protection 100a",1,$30.00,$30.00,6,$30.00,https://www.amazon.com/gp/product/B01MZIAJI0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MZIAJI0&linkCode=as2&tag=jag35com05-20&linkId=32b74653b8596b47422b4b2ffa8e9c1d
+Piezo,for alarm,2,$2.00,$4.00,12,$2.00,https://www.amazon.com/gp/product/B072HRZXLG/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1
+Battery Discharge Protect Relay,to disconnect battery automatically 100a,1,$61.00,$61.00,6,$61.00,https://www.amazon.com/gp/product/B01KIF2BGW/ref=ox_sc_act_title_1?smid=A1LKUUGYID1OAO&psc=1
+Battery Charge Protect Relay,to disconnect battery automatically 65a,1,$50.00,$50.00,6,$50.00,https://www.amazon.com/gp/product/B01N6ATT8C/ref=ox_sc_act_title_1?smid=A1LKUUGYID1OAO&th=1
+Terminal Distribution Bar,to connect negatives,1,$24.00,$24.00,6,$24.00,https://www.amazon.com/Fastronix-Terminal-Power-Ground-Distribution/dp/B00X326A1K/ref=pd_rhf_se_s_cp_0_3?_encoding=UTF8&pd_rd_i=B077CSV9X2&pd_rd_r=1BP6ARSTK7ZZS3CRDZ5X&pd_rd_w=ghedJ&pd_rd_wg=y0DL8&refRID=1BP6ARSTK7ZZS3CRDZ5X&th=1
+Relay,to control protect relays,1,$2.20,$2.20,Y,$2.20,https://www.amazon.com/gp/product/B01MTOKW8L/ref=oh_aui_search_detailpage?ie=UTF8&psc=1
+Breaker,100amp (master load fuse),1,$13.00,$13.00,6,$13.00,https://www.amazon.com/ANJOSHI-Protection-Holders-Circuit-Inverter/dp/B01LW1C0DX/ref=sr_1_4?s=electronics&ie=UTF8&qid=1510643165&sr=1-4&keywords=100a+fuse
+Breaker,60amp(from charger),1,$14.00,$14.00,6,$14.00,https://www.amazon.com/gp/product/B01N0DREAN/ref=ox_sc_act_title_1?smid=AW7ER6L7YJIWT&psc=1
+Powerwerx PanelPole,to connect charger module,1,$20.00,$20.00,Y,$20.00,https://powerwerx.com/panelpole-panel-mount-powerpole-housing
+ATC Breakers,30amp for outlets (always on outlet),1,$2.20,$2.20,12,$2.20,https://www.amazon.com/10PCS-Resettable-Universal-Circuit-Breakers/dp/B01EUMO34M/ref=sr_1_8?s=automotive&ie=UTF8&qid=1524379019&sr=1-8&keywords=30amp+atc+breaker
+ATC Breakers,15amp for outlets (timers),2,$3.40,$6.80,12,$3.40,https://www.amazon.com/10PCS-Resettable-Universal-Circuit-Breakers/dp/B01EUMNX8O/ref=sr_1_8?s=automotive&ie=UTF8&qid=1524379019&sr=1-8&keywords=30amp%2Batc%2Bbreaker&th=1
+ATC Breakers,5amp for USB and Meter,1,$3.20,$3.20,12,$3.20,https://www.amazon.com/gp/product/B0797B49YG/ref=oh_aui_search_detailpage?ie=UTF8&th=1
+Fuse block,6-way,1,$9.00,$9.00,6,$9.00,https://www.amazon.com/Support-Truck-Circuit-Standard-Holder/dp/B012CQG2MO/ref=sr_1_5?ie=UTF8&qid=1523980967&sr=8-5&keywords=atc%2Bfuse%2Bblock%2B12-way&th=1
+Powerwerx PanelPole,"to connect load (always on, timer 1, timer 2)",3,$20.00,$60.00,Y,$20.00,https://powerwerx.com/panelpole-panel-mount-powerpole-housing
+Timer,to automatically disconnect loads based on schedule (16a),2,$11.00,$22.00,12,$11.00,https://www.amazon.com/gp/product/B00A4PFU1K/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1
+USB,to charge phones,1,$25.00,$25.00,Y,$25.00,https://powerwerx.com/backlit-blue-panel-mount-usb
+Voltmeter,to check status,1,$20.00,$20.00,Y,$20.00,https://powerwerx.com/panel-mount-digital-volt-meter-blue
+Velcro strap,to secure battery,2,$5.00,$10.00,2,$5.00,https://www.amazon.com/gp/product/B0189VLJHO/ref=oh_aui_search_detailpage?ie=UTF8&psc=1
+U hooks,to secure battery,1,$8.00,$8.00,6,$8.00,https://www.amazon.com/FYRONDY-Screws-Stainless-Ceiling-Hanger/dp/B01JIHL8UQ/ref=pd_sbs_229_1?_encoding=UTF8&pd_rd_i=B01JIHL8UQ&pd_rd_r=27f17ba7-7a36-11e8-8a2a-83c3f18333a3&pd_rd_w=CzfjO&pd_rd_wg=DEedG&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=5825442648805390339&pf_rd_r=DV46A9FG8G3E251MF4K0&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=DV46A9FG8G3E251MF4K0&dpID=4176sneMV6L&preST=_SY300_QL70_&dpSrc=detail
+,,,Sub Total,"$1,883.40",,"$1,953.71",
