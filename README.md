@@ -71,6 +71,11 @@ These toolboxes also fit 19" components which comes in handy to house industry s
 
 ![alt text](dmx_controller.jpg "Arc powered DMX controllers")
 
+## Battery
+Our previous system used Lead Acid batteries, but those ended up being a ppor choice given that they shouldn't be discharged beyond 50% of their capacity and can't be stored off season without maintenance charge.
+
+Hence ended up picking LiFePo4 chemistry batteries which are very safe, robust, maintenance free and can be used to almost 100% of their capacity! 
+
 
 ## Cables
 Using a system voltage of 25.6vdc allows for long cable runs using 12AWG cable.
