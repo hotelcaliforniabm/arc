@@ -15,6 +15,17 @@ Given that it is not a super common standart (vs. 110-220vac) we also started to
 * Water pumps (there is a bunch of 24v fridges available on the market)
 * Various low voltage (5-12vdc) appliances such as DMX controllers, wifi access points, ipads, etc. (those can easily be fed by using step down voltage converters)
 
+## Features
+* 2x 15a Always on outlet with breakers
+* 4x 15a Timer controller outlets with breakers
+* 2x USB outlets with breaker
+* 1x External system voltage display
+* 1x 30a charge inlet with breaker and overcharge protection
+* Battery cell load balancing
+* Under charge protection
+* Under/over voltage protection
+* Smart system monitoring cpu
+
 ## System Architecture
 The system is designed to consist of multiple independend units which allows for simpler deployment across the perimeter, reduced complexity and higher redundancy.
 
