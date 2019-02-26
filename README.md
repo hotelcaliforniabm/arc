@@ -39,12 +39,15 @@ On a high level each arc consists of two modules:
 
 [Arc v2 parts list](arc_v2_parts_list.csv)
 
-## Cables and plugs
+## Cables
 Using a system voltage of 25.6vdc allows for long cable runs using 12AWG cable.
 
 Example: A 75ft long 12AWG cable can support a load up to 100w!
 
 [Cable length table](cable_length_table.csv)
+
+## Connectors
+Based on previous expierence we decided to use pp45 Anderson Powerpole connectors which support up to 45amp loads and a bi-directional.
 
 ## Known issues
 * When the battery get completely drained sometimes the charger controller won't come on in the morning and needs a power cycle to correctly read the abttery status
