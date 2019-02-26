@@ -20,6 +20,14 @@ The system is designed to consist of multiple independend units which allows for
 
 We run 7x Arcs for our camp at this time. Each one of them has 2,560kwh storage capacity for a total of 17,920kwh. Each is charged by two 350w solar panels.
 
+# Arc components
+On a high level each arc consists of the following components:
+* Battery
+* Battery management controller
+* Housing with outlets
+
+![alt text](https://github.com/hotelcaliforniabm/arc/blob/master/arc_v2_bmc.jpg "Arc v2 battery management controller")
+
 ## Todo's
 Easy status monitoring
 Easy to track down and fix issues
