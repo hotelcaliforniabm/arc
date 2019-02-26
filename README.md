@@ -27,6 +27,7 @@ On a high level each arc consists of the following components:
 * Housing with outlets
 
 ![alt text](https://github.com/hotelcaliforniabm/arc/blob/master/arc_v2_bmc.jpg "Arc v2 battery management controller")
+![alt text](https://github.com/hotelcaliforniabm/arc/blob/master/arc_v2_interior.jpg "Arc v2 interior")
 
 ## Todo's
 Easy status monitoring
