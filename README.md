@@ -4,7 +4,7 @@ A nifty way to build modular off grid solar power systems.
 ![alt text](arc_v2_exterior.jpg "Arc v2 exterior")
 
 ## Overview
-This system was primarily designed to provide 30kwh of daily capacity for our Burning Man camp. It provides 25.6vdc electricity because we have found that to be best compromise in terms of energy efficency and appliance requirements.
+This system was primarily designed to provide 30kwh of daily capacity for our Burning Man camp. It provides 25.6vdc electricity because we have found that to be best compromise in terms of energy efficency and appliance requirements. 25.6vdc also allows for longer cable runs then for example 12vdc.
 
 Given that it is not a super common standart (vs. 110-220vac) we also started to design custom appliances that benefit from it by being oders of magnitude more efficent than off the shelf solutions.
 
@@ -22,7 +22,7 @@ For added flexibility we seperated the battery and controller from the solar cha
 
 We run 7x Arcs for our camp at this time. Each one of them has 2,560kwh storage capacity for a total of 17,920kwh. Each is charged by two 350w solar panels.
 
-# Arc components
+## Arc components
 On a high level each arc consists of two modules:
 * Arc itself
   * Battery
@@ -38,6 +38,16 @@ On a high level each arc consists of two modules:
 ![alt text](arc_v2_interior.jpg "Arc v2 interior")
 
 [Arc v2 parts list](arc_v2_parts_list.csv)
+
+## Cables and plugs
+Using a system voltage of 25.6vdc allows for long cable runs using 12AWG cable.
+
+Example: A 75ft long 12AWG cable can support a load up to 100w!
+
+[Cable length table](cable_length_table.csv)
+
+## Known issues
+* When the battery get completely drained sometimes the charger controller won't come on in the morning and needs a power cycle to correctly read the abttery status
 
 ## Todo's
 Easy status monitoring
