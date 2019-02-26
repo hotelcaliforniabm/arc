@@ -58,6 +58,9 @@ On a high level each arc consists of two modules:
 
 [Arc v2 parts list](arc_v2_parts_list.csv)
 
+## Wiring diagram
+Working on it...
+
 ## Housing
 Housing needed to be highly mobile, robust, water proof and cheap. Hence we decided to use Ridgid Toolboxes which can be easily purchased at any HomeDepot. They are also stackable!
 
