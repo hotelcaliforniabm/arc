@@ -3,6 +3,11 @@ A nifty way to build modular off grid solar power systems.
 
 ![alt text](https://github.com/hotelcaliforniabm/arc/blob/master/arc_v2_exterior.jpg "Arc v2 exterior")
 
+## Overview
+This system was primarily designed to provide 30kwh of daily capacity for our Burning Man camp. It provides 24vdc electricity because we have found that to be best compromise in terms of energy efficency and appliance requirements.
+
+Given that it is not a super common standart (vs 100-220vac) we also started to design custom appliances that benefit from it by being oders of magnitude more efficent than off the shelf solutions.
+
 ## Todo's
 Easy status monitoring
 Easy to track down and fix issues
