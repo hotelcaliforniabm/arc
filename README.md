@@ -1,7 +1,7 @@
 # Arc
 A nifty way to build modular off grid solar power systems.
 
-![alt text](https://github.com/hotelcaliforniabm/arc/blob/master/arc_v2_exterior.jpg "Arc v2 exterior")
+![alt text](arc_v2_exterior.jpg "Arc v2 exterior")
 
 ## Overview
 This system was primarily designed to provide 30kwh of daily capacity for our Burning Man camp. It provides 25.6vdc electricity because we have found that to be best compromise in terms of energy efficency and appliance requirements.
@@ -34,10 +34,10 @@ On a high level each arc consists of two modules:
   * System management interface
   * housing
 
-![alt text](https://github.com/hotelcaliforniabm/arc/blob/master/arc_v2_bmc.jpg "Arc v2 battery management controller")
-![alt text](https://github.com/hotelcaliforniabm/arc/blob/master/arc_v2_interior.jpg "Arc v2 interior")
+![alt text](arc_v2_bmc.jpg "Arc v2 battery management controller")
+![alt text](arc_v2_interior.jpg "Arc v2 interior")
 
-![alt text](https://github.com/hotelcaliforniabm/arc/blob/master/arc_v2_parts_list.csv "Arc v2 parts list")
+[Arc v2 parts list](arc_v2_parts_list.csv)
 
 ## Todo's
 Easy status monitoring
