@@ -92,9 +92,15 @@ You will say "But Doc, 75ft will never be long enough!" ...which is why we have 
 Based on previous expierence we decided to use pp45 Anderson Powerpole connectors which support up to 45amp loads and a bi-directional.
 
 ## Custom Appliances
+Having a 24v grid required to build some appliances from scratch:
+
+### PA Amp
 Among other we built a custom 2kw RMS amp that works off 24v and only needs 4 amps per hour!
 
 ![alt text](v1_amp_interior.jpg "Our custom 2kw RMS amp")
+
+### DMX Dimmer pack
+![alt text](v1_dmx_dimmer_interior.jpg "Custom 30a DMX Dimmer pack)
 
 ## Known issues
 * When the battery get completely drained sometimes the charger controller won't come on in the morning and needs a power cycle to correctly read the abttery status
