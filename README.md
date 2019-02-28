@@ -100,7 +100,7 @@ Among other we built a custom 2kw RMS amp that works off 24v and only needs 4 am
 ![alt text](v1_amp_interior.jpg "Our custom 2kw RMS amp")
 
 ### DMX LED Dimmer pack
-To control our LED fixtures via DMX we built two of these 12ch babies that can drive 5a per channel (30a total).
+To control our LED fixtures via DMX we built two of these 12ch babies that can drive 5a per channel (capped to 30a peak).
 ![alt text](v1_dmx_dimmer_interior.jpg "Custom 30a DMX Dimmer pack")
 
 ## Known issues
