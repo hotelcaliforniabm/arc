@@ -60,6 +60,8 @@ On a high level each arc consists of two modules:
 [Arc v2 parts list](arc_v2_parts_list.csv)
 
 ## Wiring diagram
+Make sure to use the right wiring AWG. We used 6, 10 and 14AWG. Generally you'll want your wires thick enough for the breaker to be the weakest point!
+
 ![alt text](arc_v2_wiring_diagram.jpg "Arc v2 wiring diagram")
 
 ## Housing
