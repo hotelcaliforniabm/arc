@@ -120,7 +120,7 @@ Among other we built a custom 2kw RMS amp that works off 24v and only needs 4 am
 * All the amazing souls at Hotel California for making this happen
 
 ## License
-Copyright (c) 2017-2019 Matthias Wagner
+Copyright (c) 2015-2019 Matthias Wagner
 
 ## Safety Disclaimer
 This project and the material covered is for informational purposes only. We take no responsibility for what you do with this knowledge. We can not be held responsible for any property or medical damages caused by items you read about here. We would advise you to check your local laws. Some of the items we refer to are illegal in some areas, and we would highly advise you against building these in said areas.
