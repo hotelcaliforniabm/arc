@@ -97,6 +97,8 @@ Having a 24v grid required to build some appliances from scratch:
 ### PA Amp
 Among other we built a custom 2kw RMS amp that works off 24v and only needs 4 amps per hour!
 
+I am currentely working on a V2 and hope to post detailed plans during winter of 2019.
+
 ![alt text](v1_amp_interior.jpg "Our custom 2kw RMS amp")
 
 ### DMX LED Dimmer pack
