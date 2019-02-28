@@ -86,6 +86,8 @@ Example: A 75ft long 12AWG cable can support a load up to 100w!
 
 [Cable length table](cable_length_table.csv)
 
+You will say "But Doc, 75ft will never be long enough!" ...which is why we have mulitple Arcs across the perimeter to keep cable lengths short :)
+
 ## Connectors
 Based on previous expierence we decided to use pp45 Anderson Powerpole connectors which support up to 45amp loads and a bi-directional.
 
