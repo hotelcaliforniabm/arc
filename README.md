@@ -6,20 +6,20 @@ A nifty way to build modular off grid solar power systems.
 ## Overview
 This system was primarily designed to provide 30kwh of daily capacity for our Burning Man camp. It provides 25.6vdc electricity because we have found that to be best compromise in terms of energy efficency and appliance requirements. 25.6vdc also allows for longer cable runs then for example 12vdc.
 
-Given that it is not a super common standart (vs. 110-220vac) we also started to design custom appliances that benefit from it by being oders of magnitude more efficent than off the shelf solutions.
+Given that it is not a super common standard (vs. 110-220vac) we also started to design custom appliances that benefit from it by being oders of magnitude more efficent than off the shelf solutions.
 
 ### Advantages:
 * Cheaper than off the shelf solutions
 * No off season maintenance required
 * Outdoor (Playa) proof
-* Easy to extend vertically (by adding more Arc's)
+* Easy to extend vertically (by adding more Arcs)
 * Highly power efficent
 
 ### Appliance types we run:
 * Lights (24vdc LED fixtures)
 * PA System (we currentely run a custom 2kw RMS PA and are planning to expand to 6kw this year)
-* Fridges (there is a bunch of 24v fridges available on the market)
-* Water pumps (there is a bunch of 24v ones available on the market)
+* Fridges (there are a bunch of 24v fridges available on the market)
+* Water pumps (there are a bunch of 24v ones available on the market)
 * Various low voltage (5-12vdc) appliances such as DMX controllers, wifi access points, ipads, etc. (those can easily be fed by using step down voltage converters)
 
 ## Features
@@ -34,14 +34,14 @@ Given that it is not a super common standart (vs. 110-220vac) we also started to
 * Smart system monitoring cpu
 
 ## System Architecture
-The system is designed to consist of multiple independend units which allows for simpler deployment across the perimeter, reduced complexity and higher redundancy.
+The system is designed to consist of multiple independent units which allows for simpler deployment along a perimeter, reduced complexity and higher redundancy.
 
-For added flexibility we seperated the battery and controller from the solar charge controller because for some usecases (single day events) we don't need the solar piece (Arcs can also be charged from the regualr power grid).
+For added flexibility we seperated the battery and controller from the solar charge controller because for some usecases (single day events) we don't need the solar piece (Arcs can also be charged from the default power grid).
 
 We run 7x Arcs for our camp at this time. Each one of them has 2,560kwh storage capacity for a total of 17,920kwh. Each is charged by two 350w solar panels.
 
 ## Arc components
-On a high level each arc consists of two modules:
+At a high level each arc consists of two modules:
 * Arc itself
   * Battery
   * Battery management controller
@@ -65,7 +65,7 @@ Make sure to use the right wiring AWG. We used 6, 10 and 14AWG. Generally you'll
 ![alt text](arc_v2_wiring_diagram.jpg "Arc v2 wiring diagram")
 
 ## Housing
-The housing of our v1 arcs was custom plywood boxes...and those sucked because they were too heavy, took too much time to build and were too expensive among other issues. Our housing needed to be highly mobile, robust, water proof and cheap! Hence we decided to use Ridgid Toolboxes which meet all these requirements and can be easily purchased at any HomeDepot. They are also stack- and interlock-able!
+The housing of our v1 arcs was custom plywood boxes... and those sucked because they were too heavy, took too much time to build and were too expensive among other issues. Our housing needed to be highly mobile, robust, water proof and cheap! Hence we decided to use Ridgid Toolboxes which meet all these requirements and can be easily purchased at any Home Depot. They are also stack- and interlock-able!
 
 We spray painted them white to reduce heat from the sun. Yes, we leave them out in the weather (at Burning Man which is super harsh, sun, heat, cold, wind, dust, rain, etc.)
 
@@ -74,9 +74,9 @@ These toolboxes also fit 19" components which comes in handy to house industry s
 ![alt text](dmx_controller.jpg "Arc powered DMX controllers")
 
 ## Battery
-Our previous system used Lead Acid batteries, but those ended up being a ppor choice given that they shouldn't be discharged beyond 50% of their capacity and can't be stored off season without maintenance charge.
+Our previous system used Lead Acid batteries, but those ended up being a poor choice given that they shouldn't be discharged beyond 50% of their capacity and can't be stored off season without maintenance charge.
 
-Hence ended up picking LiFePo4 chemistry batteries which are very safe, robust, maintenance free and can be used to almost 100% of their capacity! 
+Hence ended up picking LiFePo4 chemistry batteries which are very safe, robust, lightweight, maintenance free and can be used to almost 100% of their capacity! 
 
 
 ## Cables
@@ -89,15 +89,15 @@ Example: A 75ft long 12AWG cable can support a load up to 100w!
 You will say "But Doc, 75ft will never be long enough!" ...which is why we have mulitple Arcs across the perimeter to keep cable lengths short :)
 
 ## Connectors
-Based on previous expierence we decided to use pp45 Anderson Powerpole connectors which support up to 45amp loads and a bi-directional.
+Based on previous experience we decided to use pp45 Anderson Powerpole connectors which support up to 45amp loads and a bi-directional.
 
 ## Custom Appliances
-Having a 24v grid required to build some appliances from scratch:
+Having a 24v grid required us to build some appliances from scratch:
 
 ### PA Amp
 Among other we built a custom 2kw RMS amp that works off 24v and only needs 4 amps per hour!
 
-I am currentely working on a V2 and hope to post detailed plans during winter of 2019.
+We are currentely working on a V2 and hope to post detailed plans during winter of 2019.
 
 ![alt text](v1_amp_interior.jpg "Our custom 2kw RMS amp")
 
@@ -106,7 +106,7 @@ To control our LED fixtures via DMX we built two of these 12ch babies that can d
 ![alt text](v1_dmx_dimmer_interior.jpg "Custom 30a DMX Dimmer pack")
 
 ## Known issues
-* When the battery get completely drained sometimes the charger controller won't come on in the morning and needs a power cycle to correctly read the abttery status
+* When the battery gets completely drained sometimes the charge controller won't come on in the morning and needs a power cycle to correctly read the abttery status
 
 ## Todo's
 * Simplify status monitoring
