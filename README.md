@@ -4,7 +4,7 @@ A nifty way to build modular off grid solar power systems.
 ![alt text](arc_v2_exterior.jpg "Arc v2 exterior")
 
 ## Overview
-This system was primarily designed to provide 30kwh of daily capacity for our Burning Man camp. It provides 25.6vdc electricity because we have found that to be best compromise in terms of energy efficency and appliance requirements. 25.6vdc also allows for longer cable runs then for example 12vdc.
+This system was primarily designed to provide 30kwh of daily capacity for our Burning Man camp. It creates a 25.6vdc electricity grid because we have found that to be best compromise in terms of energy efficency and appliance requirements. 25.6vdc also allows for longer cable runs then for example well adopted 12vdc.
 
 Given that it is not a super common standard (vs. 110-220vac) we also started to design custom appliances that benefit from it by being oders of magnitude more efficent than off the shelf solutions.
 
