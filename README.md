@@ -4,54 +4,55 @@ A nifty way to build modular off grid solar power systems.
 ![alt text](arc_v2_exterior.jpg "Arc v2 exterior")
 
 ## Overview
-This system was primarily designed to provide 30kwh of daily capacity for our Burning Man camp. It creates a 25.6vdc electricity grid because we have found that to be best compromise in terms of energy efficency and appliance requirements. 25.6vdc also allows for longer cable runs then for example well adopted 12vdc.
+This system was primarily designed to provide 30kwh of daily capacity for our Burning Man camp. It creates a 25.6vdc electricity grid because we have found that to be best compromise in terms of energy efficency and appliance requirements. 25.6vdc also allows for longer cable runs then for example the well adopted automobile 12vdc standard.
 
-Given that it is not a super common standard (vs. 110-220vac) we also started to design custom appliances that benefit from it by being oders of magnitude more efficent than off the shelf solutions.
+Given that this is not super common versus regular 110-220vac public grid power we also started to design custom appliances and retrofit existing ones. Most electronics work with DC power interally anyways which makes retrofitting simple and comes with significant power efficeny benefits.
 
 ### Advantages:
 * Cheaper than off the shelf solutions
-* No off season maintenance required
-* Outdoor (Playa) proof
 * Easy to extend vertically (by adding more Arcs)
 * Highly power efficent
+* No off season maintenance required
+* Outdoor (Playa) proof
 
 ### Appliance types we run:
 * Lights (24vdc LED fixtures)
-* PA System (we currentely run a custom 2kw RMS PA and are planning to expand to 6kw this year)
+* PA System (we used to run a custom 2kw RMS PA and have upgraded to 20kw system this year)
 * Fridges (there are a bunch of 24v fridges available on the market)
 * Water pumps (there are a bunch of 24v ones available on the market)
-* Various low voltage (5-12vdc) appliances such as DMX controllers, wifi access points, ipads, etc. (those can easily be fed by using step down voltage converters)
+* Various low voltage (5-12vdc) appliances such as DMX controllers, wifi access points, ipads, etc. (those can easily be fed by using cheap and efficent step down voltage converters)
 
 ## Features
-* 2x 15a Always on outlet with breakers
-* 4x 15a Timer controller outlets with breakers
+* 2x 15a Always-on outlets with breakers
+* 2x 15a Timer controller outlets with breakers
 * 2x USB outlets with breaker
 * 1x External system voltage display
 * 1x 30a charge inlet with breaker and overcharge protection
 * Battery cell load balancing
-* Under charge protection
+* Under/over charge protection
 * Under/over voltage protection
 * Smart system monitoring cpu
 
 ## System Architecture
-The system is designed to consist of multiple independent units which allows for simpler deployment along a perimeter, reduced complexity and higher redundancy.
+The system is designed to consist of multiple independent units which allows for simpler deployment along a larger perimeter, reducing complexity and increasing redundancy.
 
-For added flexibility we seperated the battery and controller from the solar charge controller because for some usecases (single day events) we don't need the solar piece (Arcs can also be charged from the default power grid).
+For added flexibility we seperated the battery and controller from the solar charge controller because for some usecases (single day events) we don't need the solar piece (Arcs can also be charged from the public 110-220vac power grid).
 
-We run 7x Arcs for our camp at this time. Each one of them has 2,560kwh storage capacity for a total of 17,920kwh. Each is charged by two 350w solar panels.
+We run 9x Arcs for our camp at this time. Each one of them has 2,560kwh storage capacity for a total of 23kwh. Each Arc gets charged by two in series 350w solar panels (running the panels in series doubles the voltage and allows for longer cable runs at minimum loss).
 
 ## Arc components
 At a high level each arc consists of two modules:
 * Arc itself
   * Battery
   * Battery management controller
+  * Breakers
   * Timers (to automatically control lights at night)
-  * Housing with outlets
+  * Housing
 * Solar charger
   * Solar charge controller
   * Breakers
   * System management interface
-  * housing
+  * Housing
 
 ![alt text](arc_v2_bmc.jpg "Arc v2 battery management controller")
 ![alt text](arc_v2_interior.jpg "Arc v2 interior")
@@ -67,16 +68,16 @@ Make sure to use the right wiring AWG. We used 6, 10 and 14AWG. Generally you'll
 ## Housing
 The housing of our v1 arcs was custom plywood boxes... and those sucked because they were too heavy, took too much time to build and were too expensive among other issues. Our housing needed to be highly mobile, robust, water proof and cheap! Hence we decided to use Ridgid Toolboxes which meet all these requirements and can be easily purchased at any Home Depot. They are also stack- and interlock-able!
 
-We spray painted them white to reduce heat from the sun. Yes, we leave them out in the weather (at Burning Man which is super harsh, sun, heat, cold, wind, dust, rain, etc.)
+We spray painted them white to reduce heat from the sun. Yes, we leave them out in the weather (at Burning Man which is super harsh: sun, heat, cold, wind, dust, rain, etc.)
 
 These toolboxes also fit 19" components which comes in handy to house industry standard rack mount gear.
 
 ![alt text](dmx_controller.jpg "Arc powered DMX controllers")
 
 ## Battery
-Our previous system used Lead Acid batteries, but those ended up being a poor choice given that they shouldn't be discharged beyond 50% of their capacity and can't be stored off season without maintenance charge.
+Our previous system used Lead Acid batteries, but those ended up being a poor choice given that they shouldn't be discharged beyond 50% of their capacity and can't be stored off season without frequent maintenance charges.
 
-Hence ended up picking LiFePo4 chemistry batteries which are very safe, robust, lightweight, maintenance free and can be used to almost 100% of their capacity! 
+Hence we ended up picking LiFePo4 chemistry batteries which are very safe, robust, lightweight, maintenance free and can be used to almost 100% of their capacity! 
 
 
 ## Cables
