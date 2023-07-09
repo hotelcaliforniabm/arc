@@ -6,7 +6,7 @@ A nifty way to build modular off grid solar power systems.
 ## Overview
 This system was primarily designed to provide 30kwh of daily capacity for our Burning Man camp. It creates a 25.6vdc electricity grid because we have found that to be best compromise in terms of energy efficency and appliance requirements. 25.6vdc also allows for longer cable runs then for example the well adopted automobile 12vdc standard.
 
-Given that this is not super common versus regular 110-220vac public grid power we also started to design custom appliances and retrofit existing ones. Most electronics work with DC power interally anyways which makes retrofitting simple and comes with significant power efficeny benefits.
+Given that this is not super common versus regular 110-220vac public grid power we also started to design custom appliances and retrofit existing ones. Most electronics work with DC power interally anyways which makes retrofitting simple and comes with significant power efficiency benefits.
 
 ### Advantages:
 * Cheaper than off the shelf solutions
